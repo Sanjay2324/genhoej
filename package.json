@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/blazsmaster/discord-gen-bot.git"
   },
-  "keywords": ["discord", "generator", "gen-bot", "javascript"],
+  "keywords": [
+    "discord",
+    "generator",
+    "gen-bot",
+    "javascript"
+  ],
   "author": "blázs",
   "license": "MIT",
   "bugs": {
